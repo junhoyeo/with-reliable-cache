@@ -6,8 +6,7 @@
   "author": "Junho Yeo <i@junho.io>",
   "license": "MIT",
   "dependencies": {
-    "compressed-json": "^1.0.16",
-    "redis": "^4.3.1"
+    "compressed-json": "^1.0.16"
   },
   "devDependencies": {
     "@ianvs/prettier-plugin-sort-imports": "^3.4.2",
